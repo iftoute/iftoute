@@ -1,4 +1,6 @@
-<img align='center' src="Banner_Github.gif"/>
+<p align='center'>
+  <img src="Banner_Github.gif"/>
+</p>
 
 <h1 align='center'>Hi there, Je suis jessie <img src="https://github.com/LucileGombert/LucileGombert/blob/main/images/wave.gif" width="30px"></h1>
 
