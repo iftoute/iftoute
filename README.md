@@ -4,7 +4,6 @@
 
 <h1 align='center'>Hi there, Je suis jessie <img src="https://github.com/LucileGombert/LucileGombert/blob/main/images/wave.gif" width="30px"></h1>
 
-align='center'
   <h4 align='center'>Retrouvez-mois sur :blush: :computer:</h4>
   
 <p align='center'>
