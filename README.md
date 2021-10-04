@@ -1,6 +1,6 @@
-<img src="Banner_Github.gif"/>
+<img align='center' src="Banner_Github.gif"/>
 
-### Hi there, Je suis jessie <img src="https://github.com/LucileGombert/LucileGombert/blob/main/images/wave.gif" width="30px">
+<h1 align='center'>Hi there, Je suis jessie <img src="https://github.com/LucileGombert/LucileGombert/blob/main/images/wave.gif" width="30px"></h1>
 
 #### Retrouvez-mois sur :blush::computer:
 
